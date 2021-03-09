@@ -1,3 +1,13 @@
+# Project Summary 
+Last updated: March, 2021 <br />
+By: Jordan 
+
+*The 'purpose' of the project is to demonstrate my skills with **R, Python & SQL**. The 'subject' or 'premise' of this project, is to study the correlation between economic recessions and the use of vices such as tobacco and alcohol.*
+<br />
+
+  * Automate Data Cleansing **'Python'** <br />
+  * Visualization & Dashboarding **'R'** <br />
+
 # Automate Data Cleansing & Consolidate files  **'Python'**
 Last updated: March, 2021 <br />
 By: Jordan 
