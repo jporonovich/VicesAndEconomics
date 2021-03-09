@@ -25,6 +25,8 @@ Preliminary research of Canadian data shows that total alcohol spending across C
 Cigarettes on the other hand show a negative correlation coefficient (-0.72) which is representative of the fact that most people in Canada no longer smoke. 
 <br />
 
+To be continue… 
+
 ![Indexed Chart](https://raw.githubusercontent.com/jporonovich/Jordans_LandingPage/main/Pictures/Index%20Chart.png?token=AFSI26EGVW6AE6JZ5PFJQ6TAKEM4W)
 
 <br />
