@@ -17,7 +17,7 @@ The 'purpose' of the project is to demonstrate my skills with **R & Python**. Th
 |Prepare Shape file|R|Complete|
 |LineChart|R|Complete|
 |HeatMap|R|On-Going|
-|Statistics & Analysis|Python & R |Next project|
+|Statistics & Analysis|Python & R |Next Section|
 
 
 # [Automate Data Cleansing & GDP per Capita   **'Python'**](https://github.com/jporonovich/Pyhton_AutomateDataCleanse)
