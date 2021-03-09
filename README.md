@@ -13,6 +13,7 @@ Last updated: March, 2021 <br />
 |LineChart|R|Complete|
 |HeatMap|R|On-Going|
 |Statistics & Analysis|Python & R |Next Section|
+|<img width=200/>|<img width=200/>|<img width=200/>|
 
 
 ## About 
