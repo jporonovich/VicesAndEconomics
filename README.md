@@ -11,8 +11,9 @@ Note that this is an ongoing project. I try to get in a few hours a week.
   * Interactive Dashboarding **'R'** <br />
 
 # [Automate Data Cleansing & Consolidate files  **'Python'**](https://github.com/jporonovich/Pyhton_AutomateDataCleanse)
+Microsoft Visual Studio <br />
 Last updated: March, 2021 <br />
-By: Jordan 
+Status: **Complete**
 
 *All data publicly available on StatsCan [(Click Here)](https://www150.statcan.gc.ca/n1//en/type/data?MM=1#tables).*
 
@@ -70,11 +71,14 @@ By: Jordan
  ```
 
 # [Interactive Dashboard & File Manipulation **'R'**](https://github.com/jporonovich/R.Shiny_InteractiveDashboard)
+Microsoft Visual Studio <br />
+Last updated: March, 2021 <br />
+Status: **Heatmap and dropdown menu completed. Next step, link user input and heatmap.**
 
-Description:<br />
+
 *Consolidate and clean Alcohol, Tobacco, GDP and CPI data into files into three separate CSV files (Monthly, Quarterly, Yearly). Merge .shp file with Alcohol sales per capita csv file and finally Developed dashboard for visualization & analysis*
 
-*Current Progress. Heatmap and drop down designed. Next step, link user input and heatmap.*
+
 
 ![Dashboard visualization](https://raw.githubusercontent.com/jporonovich/R_-_DataWrangling_Dashboard-Shiny/main/Dashboard(Work-In%20Progress).PNG)
 
