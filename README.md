@@ -12,7 +12,7 @@ Last updated: March, 2021 <br />
 |Prepare Shape file|R|Complete|
 |LineChart|R|Complete|
 |HeatMap|R|On-Going|
-|Statistics & Analysis|Python & R |Next Section|
+|Statistics & Analysis|Python & R |On-going|
 
 
 ## About 
