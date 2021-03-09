@@ -1,4 +1,4 @@
-# vices & Economic 
+# Vices & Economic 
 Last updated: March, 2021 <br />
 
 *Please note, this is an ongoing project. I  put in a couple hours a week to move the needle.*<br />
