@@ -1,7 +1,7 @@
 # Vices & Economic 
 Last updated: March, 2021 <br />
 
-*Please note, this is an ongoing project. I  put in a couple hours a week to move the needle.*<br />
+*Please note, this is an ongoing project. I  clock-in a couple hours a week to move the needle.*<br />
 
 ## About Project 
 The subject or premise of this project, is to study the correlation between economic recessions and the use of vices such as tobacco and alcohol. An article published on WebMD, “[As Economy Goes Down, Drinking Goes Up]( https://www.webmd.com/mental-health/addiction/news/20111013/as-economy-goes-down-drinking-goes-up)” suggested that drinking and alcohol consumption are inversely correlated in the united states. 
@@ -33,7 +33,7 @@ To be continue…
 |HeatMap|R|On-Going|
 
 
-# [Automate Data Cleansing & GDP per Capita   **'Python'**](https://github.com/jporonovich/Pyhton_AutomateDataCleanse)
+# [Automate Data Cleansing & GDP per Capita **'Python'**](https://github.com/jporonovich/Pyhton_AutomateDataCleanse)
 Microsoft Visual Studio <br />
 Last updated: March, 2021 <br />
 Status: Complete
@@ -41,6 +41,9 @@ Status: Complete
 *All data publicly available on StatsCan [(Click Here)](https://www150.statcan.gc.ca/n1//en/type/data?MM=1#tables).*
 
 Prepared the below CSV files for analysis. Removed all non-pertinent information. (e.g. Drop rows and columns, new headers, ensure CSVs are ready to be manipulated). Merge alcohol sales and population information create new "Alcohol spending per capita" from 2000 to 2020 by province.
+
+
+The reason I automated the data cleanse is so that I can create a cycle of puling data and uploading data to a dashboard with little or no human intervention.  
 
 *Before & After Example.*
 
