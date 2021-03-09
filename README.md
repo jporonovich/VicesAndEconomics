@@ -2,11 +2,13 @@
 Last updated: March, 2021 <br />
 
 
-*The 'purpose' of the project is to demonstrate my skills with **R, Python & SQL**. The 'subject' or 'premise' of this project, is to study the correlation between economic recessions and the use of vices such as tobacco and alcohol.*
+*The 'purpose' of the project is to demonstrate my skills with **R & Python**. The 'subject' or 'premise' of this project, is to study the correlation between economic recessions and the use of vices such as tobacco and alcohol.*
+<br />
+Note that this is an ongoing project. I try to get in a few hours a week. 
 <br />
 
   * Automate Data Cleansing **'Python'** <br />
-  * Visualization & Dashboarding **'R'** <br />
+  * Interactive Dashboarding **'R'** <br />
 
 # [Automate Data Cleansing & Consolidate files  **'Python'**](https://github.com/jporonovich/Pyhton_AutomateDataCleanse)
 Last updated: March, 2021 <br />
@@ -14,9 +16,9 @@ By: Jordan
 
 *All data publicly available on StatsCan [(Click Here)](https://www150.statcan.gc.ca/n1//en/type/data?MM=1#tables).*
 
-*Prepared the below CSV files for analysis. Removed all non-pertinent information. (e.g. Drop rows and columns, new headers, ensure CSVs are ready to be manipulated). Merge alcohol sales and population information create new "Alcohol spending per capita" from 2000 to 2021 by province.*
+*Prepared the below CSV files for analysis. Removed all non-pertinent information. (e.g. Drop rows and columns, new headers, ensure CSVs are ready to be manipulated). Merge alcohol sales and population information create new "Alcohol spending per capita" from 2000 to 20210 by province.*
 
-*Before & After*
+*Before & After Example.*
 
 ![before&after](https://raw.githubusercontent.com/jporonovich/Pyhton-Wrangling_DataCleanseAuto/main/Before%20%26%20After.PNG)
 
@@ -29,7 +31,7 @@ By: Jordan
   * [x] AlcoholSales.CSV
   * [x] CanadaPopulation.csv
 
-### Snippet from 'CleanCSVFiles'
+### Snippet from 'CleanCSVFiles.py'
 *full file available in repository*
 
  ```python 
@@ -96,7 +98,8 @@ Description:<br />
 *Full file available in repository*
  
 ``` r
-           #dynamic Line chart 
+           #Dynamic Line chart
+           
            ggplot(ConsolidatedAnnual, aes(x = Year)) +
            geom_line(aes(y = if (is.na(match("Dollar Value",input$SourceData))) {GDP.Prct.Chg} else {GDP}), 
                  col = if (is.na(match("GDP",input$ThreeMetrics))) {NA} else {"#0e7bcf"}, 
