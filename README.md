@@ -3,18 +3,6 @@ Last updated: March, 2021 <br />
 
 *Please Note, this is an ongoing project. I try to get a few hours in a week.*<br />
 
-
-|**Section**<img width=200/>|**Language**<img width=200/>|**Status**<img width=200/>|
-|:-|:-|:-|
-|Automate Cleanse|Python|Complete|
-|Calculate Per Capita|Python|Complete|
-|Consolidate files|R|Complete|
-|Prepare Shape file|R|Complete|
-|LineChart|R|Complete|
-|HeatMap|R|On-Going|
-|Statistics & Analysis|Python & R |On-going|
-
-
 ## About 
 The subject or premise of this project, is to study the correlation between economic recessions and the use of vices such as tobacco and alcohol. An article published on WebMD, “[As Economy Goes Down, Drinking Goes Up]( https://www.webmd.com/mental-health/addiction/news/20111013/as-economy-goes-down-drinking-goes-up)” suggested that drinking and alcohol consumption are inversely correlated in the united states. 
 <br />
@@ -30,6 +18,19 @@ To be continue…
 ![Indexed Chart](https://raw.githubusercontent.com/jporonovich/Jordans_LandingPage/main/Pictures/Index%20Chart.png?token=AFSI26EGVW6AE6JZ5PFJQ6TAKEM4W)
 
 <br />
+
+## Status
+|**Section**<img width=200/>|**Language**<img width=200/>|**Status**<img width=200/>|
+|:-|:-|:-|
+|Automate Cleanse|Python|Complete|
+|Analysis & presentation|Python & R |On-going|
+|Calculate Per Capita|Python|Complete|
+|Consolidate files|R|Complete|
+|Prepare Shape file|R|Complete|
+|LineChart|R|Complete|
+|HeatMap|R|On-Going|
+
+
 
 
 # [Automate Data Cleansing & GDP per Capita   **'Python'**](https://github.com/jporonovich/Pyhton_AutomateDataCleanse)
