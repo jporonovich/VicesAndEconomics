@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+# Interactive Dashboard  **'R'**
+Last updated: March, 2021 <br />
+By: Jordan 
 
-You can use the [editor on GitHub](https://github.com/jporonovich/LandingPage/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Description:<br />
+*Consolidate and clean Alcohol, Tobacco, GDP and CPI data into files into three separate CSV files (Monthly, Quarterly, Yearly). Merge .shp file with Alcohol sales per capita csv file and finally Developed dashboard for visualization & analysis*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*Current Progress. Heatmap and drop down designed. Next step, link user input and heatmap.*
 
-### Markdown
+![Dashboard visualization](https://raw.githubusercontent.com/jporonovich/R_-_DataWrangling_Dashboard-Shiny/main/Dashboard(Work-In%20Progress).PNG)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+* [x] Consolidate files (Monthly, Quarterly, Annual) 
+  * [x] AlcoholSales(Clean).csv
+  * [x] Canada_CPI(Clean).csv
+  * [x] Canada_GDP(Clean).csv
+  * [x] TobaccoSales(Clean).csv
 
-# Header 1
-## Header 2
-### Header 3
+* [x] Merge Shape file(.shp) and Alcohol per capita  
+  * [x] gpr_000b11a_e.shp
+  * [x] consolidatedAlcoholPercapita.csv
 
-- Bulleted
-- List
+* [ ] Interactive Dashboard.
+  * [x] Line chart Percentage increase/decrease
+  * [ ] Heat map of canada provincial alcohol sales _(Work in progess)_ 
+  * [ ] Interactive Table
 
-1. Numbered
-2. List
+### Snippet from Dashboard.R
+*Full file available in repository*
+<details>
+  <Summary> Click here. </Summary>
+ 
+ ``` r
+           #dynamic Line chart 
+           ggplot(ConsolidatedAnnual, aes(x = Year)) +
+           geom_line(aes(y = if (is.na(match("Dollar Value",input$SourceData))) {GDP.Prct.Chg} else {GDP}), 
+                 col = if (is.na(match("GDP",input$ThreeMetrics))) {NA} else {"#0e7bcf"}, 
+                 na.rm=TRUE, size = 1.15 )+ # Adding GDP % Change
+           geom_line(aes(y = if (is.na(match("Dollar Value",input$SourceData))) {Alcohol.Prct.Chg} else {Alcohol.Sales.CAD}),
+                 col = if (is.na(match("Alcohol",input$ThreeMetrics))) {NA} else {"#de9307"},
+                 na.rm=TRUE, size = 1.15) + # Adding Alcohol % Change
+           geom_line(aes(y = if (is.na(match("Dollar Value",input$SourceData))) {Tobacco.Prct.Chg} else {Tobacco.Sale.CAD}),
+                 col = if (is.na(match("Tobacco",input$ThreeMetrics))) {NA} else {"#08a65c"},
+                 na.rm=TRUE, size = 1.15) + # Adding tobacco % Change
+           ylim(t = if (is.na(match("Dollar Value",input$SourceData))) {c(-20,20)} else {c(0,25000000)}) + #setting y range
+           xlim(2000,2020)+
+           xlab("Year") + #renaming x axis
+           ylab(if (is.na(match("Dollar Value",input$SourceData))) {"Percentage Change(%)"} else {"Dollar Value CAD"})+ #renaming y axis
+           ggtitle("Annual Expenditures & Growth/Decline")+
+           theme(
+             panel.background = element_blank(),
+             panel.grid = element_blank(),
+             #panel.grid.major.x = element_line(color = "gray50", size = 0.05),
+             panel.grid.major = element_line(color = "gray50", size = 0.05),
+             plot.title = element_text(size = 14, face = "bold.italic", color = "#0c73c2")
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jporonovich/LandingPage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</details>
