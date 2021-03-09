@@ -3,9 +3,14 @@ Last updated: March, 2021 <br />
 
 *Please Note, this is an ongoing project. I try to get a few hours in a week.*<br />
 
-The subject or premise of this project, is to study the correlation between economic recessions and the use of vices such as tobacco and alcohol. An article published by A writer for WebMD, 
+The subject or premise of this project, is to study the correlation between economic recessions and the use of vices such as tobacco and alcohol. An article published on WebMD, “[As Economy Goes Down, Drinking Goes Up]( https://www.webmd.com/mental-health/addiction/news/20111013/as-economy-goes-down-drinking-goes-up)” suggested that drinking and alcohol consumption are inversely correlated in the united states. <br />
+Preliminary research of Canadian data shows that total alcohol spending across Canada and Canadian GDP are both positively correlated with a coefficient of 0.97. This simply confirms that people buy more when they have more money. <br />
+Cigarettes on the other hand show a negative correlation coefficient (-0.72) which is representative of the fact that most people in Canada no longer smoke. 
 <br />
- 
+
+![Indexed Chart](https://raw.githubusercontent.com/jporonovich/Jordans_LandingPage/main/Pictures/GDP%20%26%20Alcohol%20Sales%20Index%20Chart.png?token=AFSI26GO7RBK5VOTR5MPEI3AKELGA)
+
+<br />
 
 |**Section**|**Language**|**Status**|
 |:-|:-|:-|
