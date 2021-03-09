@@ -18,6 +18,7 @@ Current
 |Prepare Shape file|R|Complete|
 |LineChart|R|Complete|
 |HeatMap|R|On-Going|
+|Statistics & Analysis|Python & R |Next project|
 
 
 
@@ -111,7 +112,6 @@ Status: Heatmap and dropdown menu completed. Next step, link user input and heat
 * [ ] Interactive Dashboard.
   * [x] Line chart Percentage increase/decrease
   * [ ] Heat map of canada provincial alcohol sales _(Work in progess)_ 
-  * [ ] Interactive Table
 
 ### Snippet from Dashboard.R
 *Full file available in repository*
