@@ -10,11 +10,12 @@ Note, this is an ongoing project. I try to get in a few hours a week.
 
 Current 
 
-|Section|Language|Status|   |   |
-|---|---|---|---|---|
-|Cleaning the data|Python|Complete|   |   |
-|Calculate GDP per Capita|Python| Complete   |   |   |
-|   |   |   |   |   |
+|**Section**|**Language**|**Status**|
+|Automate Cleanse|Python|Complete|
+|Calculate Per Capita|Python|Complete|
+|Consolidate files|R|Complete|
+|Prepare Shape file|R|Comeplete|
+
 
 
   * Automate Data Cleansing **'Python'** <br />
