@@ -4,7 +4,7 @@ Last updated: March, 2021 <br />
 *Please Note, this is an ongoing project. I try to get a few hours in a week.*<br />
 
 
-|**Section**|**Language**|**Status**|
+|**Section**<img width=200/>|**Language**<img width=200/>|**Status**<img width=200/>|
 |:-|:-|:-|
 |Automate Cleanse|Python|Complete|
 |Calculate Per Capita|Python|Complete|
@@ -13,7 +13,6 @@ Last updated: March, 2021 <br />
 |LineChart|R|Complete|
 |HeatMap|R|On-Going|
 |Statistics & Analysis|Python & R |Next Section|
-|<img width=200/>|<img width=200/>|<img width=200/>|
 
 
 ## About 
