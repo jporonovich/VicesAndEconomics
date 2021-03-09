@@ -1,11 +1,9 @@
 # Project Summary 
 Last updated: March, 2021 <br />
 
+*Please Note, this is an ongoing project. I try to get a few hours in a week.*<br />
 
-The purpose of the project is to demonstrate my skills with **R & Python**. The subject or premise of this project, is to study the correlation between economic recessions and the use of vices such as tobacco and alcohol.
-<br />
-
-*Note, this is an ongoing project. I try to get a few hours in a week.*
+The subject or premise of this project, is to study the correlation between economic recessions and the use of vices such as tobacco and alcohol. An article published by A writer for WebMD, 
 <br />
  
 
