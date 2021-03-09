@@ -24,8 +24,8 @@ To be continue…
 
 |**Section**<img width=200/>|**Language**<img width=200/>|**Status**<img width=200/>|
 |:-|:-|:-|
+|Analysis|Python & R |On-going|
 |Automate Cleanse|Python|Complete|
-|Analysis & presentation|Python & R |On-going|
 |Calculate Per Capita|Python|Complete|
 |Consolidate files|R|Complete|
 |Prepare Shape file|R|Complete|
