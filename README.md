@@ -33,9 +33,8 @@ By: Jordan
 *<sup>1</sup>Source: Statistics Canada*
 
 ### Snippet from 'CleanCSVFiles'
+
 *full file available in repository*
-<details>
-  <Summary> Click here </Summary>
 
  ```python 
 
@@ -69,10 +68,8 @@ By: Jordan
 
     #Saving to new file
     GDP.to_csv("Canada_GDP(Clean).csv", index = False)
-    
+   
  ```
-
-</details>
 
 
 
