@@ -20,14 +20,15 @@ Current
   * Automate Data Cleansing **'Python'** <br />
   * Interactive Dashboarding **'R'** <br />
 
-# [Automate Data Cleansing & Consolidate files  **'Python'**](https://github.com/jporonovich/Pyhton_AutomateDataCleanse)
+# [Automate Data Cleansing & GDP per Capita   **'Python'**](https://github.com/jporonovich/Pyhton_AutomateDataCleanse)
 Microsoft Visual Studio <br />
 Last updated: March, 2021 <br />
 Status: Complete
 
 *All data publicly available on StatsCan [(Click Here)](https://www150.statcan.gc.ca/n1//en/type/data?MM=1#tables).*
 
-*Prepared the below CSV files for analysis. Removed all non-pertinent information. (e.g. Drop rows and columns, new headers, ensure CSVs are ready to be manipulated). Merge alcohol sales and population information create new "Alcohol spending per capita" from 2000 to 20210 by province.*
+* *Prepared the below CSV files for analysis. Removed all non-pertinent information. (e.g. Drop rows and columns, new headers, ensure CSVs are ready to be manipulated).* 
+* *Merge alcohol sales and population information create new "Alcohol spending per capita" from 2000 to 20210 by province.*
 
 *Before & After Example.*
 
