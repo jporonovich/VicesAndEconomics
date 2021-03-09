@@ -37,7 +37,7 @@ By: Jordan
 <details>
   <Summary> Click here </Summary>
 
- ```python 
+ `python 
 
     #This block of code  takes data from StatsCan isolates the tables, 
     #removes "clutter" and transposes the table from horizontal to vertical
@@ -69,7 +69,8 @@ By: Jordan
 
     #Saving to new file
     GDP.to_csv("Canada_GDP(Clean).csv", index = False)
- ```
+    
+ `
 
 </details>
 
@@ -109,7 +110,7 @@ Description:<br />
 <details>
   <Summary> Click here. </Summary>
  
- ``` r
+` r
            #dynamic Line chart 
            ggplot(ConsolidatedAnnual, aes(x = Year)) +
            geom_line(aes(y = if (is.na(match("Dollar Value",input$SourceData))) {GDP.Prct.Chg} else {GDP}), 
@@ -133,6 +134,6 @@ Description:<br />
              panel.grid.major = element_line(color = "gray50", size = 0.05),
              plot.title = element_text(size = 14, face = "bold.italic", color = "#0c73c2")
 
-```
+`
 
 </details>
