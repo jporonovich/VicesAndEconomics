@@ -11,6 +11,7 @@ Note, this is an ongoing project. I try to get in a few hours a week.
 Current 
 
 |**Section**|**Language**|**Status**|
+|-|-|-|
 |Automate Cleanse|Python|Complete|
 |Calculate Per Capita|Python|Complete|
 |Consolidate files|R|Complete|
