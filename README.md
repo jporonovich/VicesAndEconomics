@@ -21,10 +21,6 @@ Current
 |Statistics & Analysis|Python & R |Next project|
 
 
-
-  * Automate Data Cleansing **'Python'** <br />
-  * Interactive Dashboarding **'R'** <br />
-
 # [Automate Data Cleansing & GDP per Capita   **'Python'**](https://github.com/jporonovich/Pyhton_AutomateDataCleanse)
 Microsoft Visual Studio <br />
 Last updated: March, 2021 <br />
