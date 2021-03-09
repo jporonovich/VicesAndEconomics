@@ -1,6 +1,6 @@
 # Project Summary 
 Last updated: March, 2021 <br />
-By: Jordan 
+
 
 *The 'purpose' of the project is to demonstrate my skills with **R, Python & SQL**. The 'subject' or 'premise' of this project, is to study the correlation between economic recessions and the use of vices such as tobacco and alcohol.*
 <br />
@@ -8,7 +8,7 @@ By: Jordan
   * Automate Data Cleansing **'Python'** <br />
   * Visualization & Dashboarding **'R'** <br />
 
-# Automate Data Cleansing & Consolidate files  **'Python'**
+# [Automate Data Cleansing & Consolidate files  **'Python'**](https://github.com/jporonovich/Pyhton_AutomateDataCleanse)
 Last updated: March, 2021 <br />
 By: Jordan 
 
@@ -28,12 +28,8 @@ By: Jordan
 * [x] Merge files and create new data 
   * [x] AlcoholSales.CSV
   * [x] CanadaPopulation.csv
-* [ ] Pull CSV From Source<sup>1</sup> (TBD)
-
-*<sup>1</sup>Source: Statistics Canada*
 
 ### Snippet from 'CleanCSVFiles'
-
 *full file available in repository*
 
  ```python 
@@ -71,13 +67,7 @@ By: Jordan
    
  ```
 
-
-
-
-
-# Interactive Dashboard & File Manipulation **'R'**
-Last updated: March, 2021 <br />
-By: Jordan 
+# [Interactive Dashboard & File Manipulation **'R'**](https://github.com/jporonovich/R.Shiny_InteractiveDashboard)
 
 Description:<br />
 *Consolidate and clean Alcohol, Tobacco, GDP and CPI data into files into three separate CSV files (Monthly, Quarterly, Yearly). Merge .shp file with Alcohol sales per capita csv file and finally Developed dashboard for visualization & analysis*
@@ -104,8 +94,6 @@ Description:<br />
 
 ### Snippet from Dashboard.R
 *Full file available in repository*
-<details>
-  <Summary> Click here. </Summary>
  
 ``` r
            #dynamic Line chart 
@@ -132,5 +120,3 @@ Description:<br />
              plot.title = element_text(size = 14, face = "bold.italic", color = "#0c73c2")
 
 ```
-
-</details>
