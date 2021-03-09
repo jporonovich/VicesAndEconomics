@@ -20,6 +20,8 @@ To be continue…
 <br />
 
 ## Status
+
+
 |**Section**<img width=200/>|**Language**<img width=200/>|**Status**<img width=200/>|
 |:-|:-|:-|
 |Automate Cleanse|Python|Complete|
@@ -29,8 +31,6 @@ To be continue…
 |Prepare Shape file|R|Complete|
 |LineChart|R|Complete|
 |HeatMap|R|On-Going|
-
-
 
 
 # [Automate Data Cleansing & GDP per Capita   **'Python'**](https://github.com/jporonovich/Pyhton_AutomateDataCleanse)
