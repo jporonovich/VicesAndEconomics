@@ -8,6 +8,15 @@ Last updated: March, 2021 <br />
 Note, this is an ongoing project. I try to get in a few hours a week. 
 <br />
 
+Current 
+
+|Section|Language|Status|   |   |
+|---|---|---|---|---|
+|Cleaning the data|Python|Complete|   |   |
+|Calculate GDP per Capita|Python| Complete   |   |   |
+|   |   |   |   |   |
+
+
   * Automate Data Cleansing **'Python'** <br />
   * Interactive Dashboarding **'R'** <br />
 
