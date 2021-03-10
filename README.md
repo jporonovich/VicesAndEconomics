@@ -15,7 +15,7 @@ Cigarettes on the other hand show a negative correlation coefficient (-0.72) whi
 
 To be continue… 
 
-![Indexed Chart](https://raw.githubusercontent.com/jporonovich/VicesAndEconomics/main/Pictures/LineChart_index.png?token=AFSI26EHUB5IKJF4POR3I5LAKFMAO)
+![Indexed Chart](https://raw.githubusercontent.com/jporonovich/VicesAndEconomics/main/Pictures/LineChart_index.png?token=AFSI26HPZBA63GCGUSZ2UBTAKFMOE)
 
 <br />
 
