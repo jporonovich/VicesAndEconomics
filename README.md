@@ -1,5 +1,5 @@
 # To the Reader 
-By : Jordan P. 
+By : Jordan P. <br />
 Last updated: March, 2021 <br />
 
 *Please note, this is an ongoing project. I  clock-in a couple hours a week to move the needle but have no set timeline.*<br />
