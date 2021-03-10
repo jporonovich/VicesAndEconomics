@@ -1,9 +1,10 @@
-# To the Reader 
+# Project Summary
+## To the Reader 
 Last updated: March, 2021 <br />
 
 *Please note, this is an ongoing project. I  clock-in a couple hours a week to move the needle but have no set timeline.*<br />
 
-## About Project 
+## About 
 The subject or premise of this project, is to study the correlation between economic recessions and the use of vices such as tobacco and alcohol. An article published on WebMD, “[As Economy Goes Down, Drinking Goes Up]( https://www.webmd.com/mental-health/addiction/news/20111013/as-economy-goes-down-drinking-goes-up)” suggested that drinking and alcohol consumption are inversely correlated in the united states. 
 <br />
 
