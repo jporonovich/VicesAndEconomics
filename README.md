@@ -33,7 +33,8 @@ To be continue…
 |HeatMap|R|On-Going|
 
 
-# [Automate Data Cleansing & GDP per Capita **'Python'**](https://github.com/jporonovich/Pyhton_AutomateDataCleanse)
+# Automate Data Cleansing & GDP per Capita **'Python'**
+[To Repository](https://github.com/jporonovich/Pyhton_AutomateDataCleanse)
 Microsoft Visual Studio <br />
 Last updated: March, 2021 <br />
 Status: Complete
@@ -96,7 +97,8 @@ The reason I automated the data cleanse is so that I can create a cycle of pulin
    
  ```
 
-# [Interactive Dashboard & File Manipulation **'R'**](https://github.com/jporonovich/R.Shiny_InteractiveDashboard)
+# Interactive Dashboard & File Manipulation **'R'**
+[To Repository](https://github.com/jporonovich/R.Shiny_InteractiveDashboard)
 Microsoft Visual Studio <br />
 Last updated: March, 2021 <br />
 Status: Heatmap and dropdown menu completed. Next step, link user input and heatmap.
