@@ -36,7 +36,7 @@ Sources: Statistics Canada. All CSV files available in GitHub repository.
 
 |**Section**<img width=200/>|**Language**<img width=200/>|**Status**<img width=200/>|
 |:-|:-|:-|
-|Analysis|Python & R |On-going|
+|Discussion & Analysis|*na*|On-going|
 |Automate Cleanse|Python|Complete|
 |Calculate Per Capita|Python|Complete|
 |Consolidate files|R|Complete|
