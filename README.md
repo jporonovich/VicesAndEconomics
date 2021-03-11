@@ -17,7 +17,7 @@ At the time of writing, the Ontario Lottery and Gaming Corporation (“OLG”) a
 
 So what? <br />
 
-These are the question I hope to answer the end of this project.<br />
+These are the question I hope to answer by the end of this project.<br />
 * Will alcohol sales remain high or will sales revert towards the average?
 *	Cannabis sales have exploded, is this due to the novelty, the fact it’s a nascent industry, the recession, will there be a correction?
 *	Will we see an up tick in tobacco sales? Is the 2010 example a lagging indicator? 
