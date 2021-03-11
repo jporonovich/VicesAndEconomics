@@ -41,9 +41,9 @@ Sources: Statistics Canada. All CSV files available in GitHub repository.
 |Per Capita spending|Python|Complete|
 |Consolidate files|R|Complete|
 |Prepare Shape file|R|Complete|
-|LineChart|R|Complete|
-|HeatMap|R|On-Going|
-|Other visualizations|Excel, R|Complete|
+|Dashboard: LineChart|R|Complete|
+|Dashboard: HeatMap|R|On-Going|
+|Static Visualizations|Excel, R|Ongoing|
 
 
 ## Automate Data Cleansing & GDP per Capita **'Python'**
