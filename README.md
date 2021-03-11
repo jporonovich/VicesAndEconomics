@@ -10,7 +10,9 @@ The subject or premise of this project, is to study the correlation between econ
 
 An article published on WebMD, “[As Economy Goes Down, Drinking Goes Up]( https://www.webmd.com/mental-health/addiction/news/20111013/as-economy-goes-down-drinking-goes-up)” suggested that drinking and alcohol consumption are inversely correlated in the United States. <br />
 
-Preliminary research shows that between 2000 and 2020 alcohol spending and Canadian GDP are both positively correlated not negatively correlated (Coef: 0.97). This confirms that over the long term, the alcohol industry grows and shrinks with the economy but is not indicative of recession purchasing behavior. The smae type of trend, though inversed is seen in the tobacco industry. Fom 2004 to 2020 cigarettes sales and canadian GDP had a negative correlation coefficient of -0.72 which is representative of Health Canadas war on smoking, not consumers behavior during a recession.<br />
+Preliminary research shows that between 2000 and 2020 alcohol spending and Canadian GDP are both positively correlated not negatively correlated (Coef: 0.97). This confirms that  the alcohol industry grew and shrank with the Canadian economy over the last 20 years. However, the is not indicative of purchasing behavior during an economic recession.<br />
+
+A similar trend but inverted is seen in the tobacco industry. Fom 2004 to 2020 cigarettes sales and canadian GDP had a negative correlation coefficient of -0.72. At face value this suggests that tobacco sales decreased as the Canadian economy increased. However, this is incorrect. This trend is representative of Health Canada's war on tobacco and part of a larger smoking cessation movement.<br />
 
 Taking a closer look, the latest annualized Canadian GDP data shows a -5.4% Year-Over-Year (“YoY”) 2019 to 2020. In the same period, alcohol sale increased 7.3% and monthly cannabis sales increased over 30% YoY.<br />
 
