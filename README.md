@@ -1,4 +1,4 @@
-# Project 1
+# Project Overview
 ## To the Reader 
 Last updated: March, 2021 <br />
 By : Jordan P. <br />
