@@ -34,7 +34,7 @@ Sources: Statistics Canada. All CSV files available in GitHub repository.
 ## Status
 
 
-|**Section**<img width=200/>|**Tools**<img width=200/>|**Status**<img width=200/>|
+|**Section**<img width=250/>|**Tools**<img width=250/>|**Status**<img width=100/>|
 |:-|:-|:-|
 |Discussion & Analysis|*na*|On-going|
 |Automate Cleanse|Python|Complete|
@@ -43,7 +43,7 @@ Sources: Statistics Canada. All CSV files available in GitHub repository.
 |Prepare Shape file|R|Complete|
 |Dashboard: LineChart|R|Complete|
 |Dashboard: HeatMap|R|On-Going|
-|Static Visualizations|Excel, R|Ongoing|
+|Static Visualizations & Tables|Excel, R|Ongoing|
 
 
 ## Automate Data Cleansing & GDP per Capita **'Python'**
