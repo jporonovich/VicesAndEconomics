@@ -5,7 +5,7 @@ Last updated: March, 2021 <br />
 
 *Please note, this is an ongoing project. I  clock-in a couple hours a week to move the needle but have no set timeline.*<br />
 
-# Summary 
+## Summary 
 The subject or premise of this project, is to study the correlation between economic recessions and the use of vices such as alcohol, cannabis and tobacco while using as many analytics tools as posible (i.e. Excel, Python, R, PowerPoint, Etc.) An article published on WebMD, “[As Economy Goes Down, Drinking Goes Up]( https://www.webmd.com/mental-health/addiction/news/20111013/as-economy-goes-down-drinking-goes-up)” suggested that drinking and alcohol consumption are inversely correlated in the United States. <br />
 
 Preliminary research shows that between 2000 and 2020 alcohol spending and Canadian GDP are both positively correlated (Coef: 0.97) not negatively correlated. This confirms that over the long term, the alcohol industry grows and shrinks with the economy but is not indicative of recession purchasing behavior. For example, from 2004 to 2020 cigarettes sales and canadian GDP  have a negative correlation coefficient of -0.72 which is representative of Health Canadas war on smoking, not consumers behavior during a recession.<br />
@@ -45,7 +45,7 @@ Sources: Statistics Canada. All CSV files available in GitHub repository.
 |HeatMap|R|On-Going|
 
 
-# Automate Data Cleansing & GDP per Capita **'Python'**
+## Automate Data Cleansing & GDP per Capita **'Python'**
 [To Repository](https://github.com/jporonovich/Pyhton_AutomateDataCleanse)
 Microsoft Visual Studio <br />
 Last updated: March, 2021 <br />
@@ -109,7 +109,7 @@ The reason I automated the data cleanse is so that I can create a cycle of pulin
    
  ```
 
-# Interactive Dashboard & File Manipulation **'R'**
+## Interactive Dashboard & File Manipulation **'R'**
 [To Repository](https://github.com/jporonovich/R.Shiny_InteractiveDashboard)
 Microsoft Visual Studio <br />
 Last updated: March, 2021 <br />
