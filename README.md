@@ -34,7 +34,7 @@ Sources: Statistics Canada. All CSV files available in GitHub repository.
 ## Status
 
 
-|**Section**<img width=250/>|**Tools**<img width=250/>|**Status**<img width=100/>|
+|**Section**<img width=250/>|**Tools**<img width=100/>|**Status**<img width=100/>|
 |:-|:-|:-|
 |Discussion & Analysis|*na*|On-going|
 |Automate Cleanse|Python|Complete|
