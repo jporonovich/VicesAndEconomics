@@ -1,4 +1,4 @@
-#Vice & Economics
+# Vice & Economics
 ### To the Reader 
 By : Jordan P. <br />
 Last updated: March, 2021 <br />
