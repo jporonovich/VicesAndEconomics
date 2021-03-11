@@ -51,7 +51,7 @@ Sources: Statistics Canada. All CSV files available in GitHub repository.
 |Regression Model|Undecided(Excel, R)|Ongoing|
 
 ## Automate Data Cleansing & GDP per Capita **'Python'**
-[To Repository](https://github.com/jporonovich/Pyhton_AutomateDataCleanse)
+[To Repository](https://github.com/jporonovich/Pyhton_AutomateDataCleanse)<br />
 Microsoft Visual Studio <br />
 Last updated: March, 2021 <br />
 Status: Complete
