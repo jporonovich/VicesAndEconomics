@@ -43,6 +43,7 @@ Sources: Statistics Canada. All CSV files available in GitHub repository.
 |Prepare Shape file|R|Complete|
 |LineChart|R|Complete|
 |HeatMap|R|On-Going|
+|Other visualizations|Excel, R|Complete|
 
 
 ## Automate Data Cleansing & GDP per Capita **'Python'**
