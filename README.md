@@ -38,7 +38,7 @@ Sources: Statistics Canada. All CSV files available in GitHub repository.
 |:-|:-|:-|
 |Discussion & Analysis|*na*|On-going|
 |Automate Cleanse|Python|Complete|
-|Calculate Per Capita|Python|Complete|
+|Per Capita spending|Python|Complete|
 |Consolidate files|R|Complete|
 |Prepare Shape file|R|Complete|
 |LineChart|R|Complete|
