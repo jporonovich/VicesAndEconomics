@@ -48,7 +48,7 @@ Sources: Statistics Canada. All CSV files available in GitHub repository.
 |Dashboard: LineChart|R|Complete|
 |Dashboard: HeatMap|R|On-Going|
 |Static Visualizations & Tables|Excel, R|Ongoing|
-|Regression Model|undecided(Excel, R)|Ongoing|
+|Regression Model|Undecided(Excel, R)|Ongoing|
 
 ## Automate Data Cleansing & GDP per Capita **'Python'**
 [To Repository](https://github.com/jporonovich/Pyhton_AutomateDataCleanse)
