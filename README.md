@@ -116,8 +116,8 @@ The reason I automated the data cleanse is so that I can create a cycle of pulin
  ```
 
 ## Interactive Dashboard & File Manipulation **'R'**
-[To Repository](https://github.com/jporonovich/R.Shiny_InteractiveDashboard)
-Microsoft Visual Studio <br />
+[To Repository](https://github.com/jporonovich/R.Shiny_InteractiveDashboard)<br />
+RStudio <br />
 Last updated: March, 2021 <br />
 Status: Heatmap and dropdown menu completed. Next step, link user input and heatmap.
 
