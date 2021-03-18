@@ -36,7 +36,7 @@ Sources: Statistics Canada. All CSV files available in GitHub repository.
 
 <br />
 
-## Status
+## Project Status
 
 
 |**Section**<img width=250/>|**Tools**<img width=100/>|**Status**<img width=100/>|
