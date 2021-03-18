@@ -7,7 +7,7 @@ By : Jordan P. <br />
 *Please note, this is an ongoing project. I  clock-in a couple hours a week to move the needle but have no set timeline.*<br />
 
 ## Premise 
-The subject or premise of this project, is to study the correlation between economic recessions and the use of vices such as alcohol, cannabis and tobacco. All while using as many analytics tools as posible (i.e. Excel, Python, R, PowerPoint, Etc.) <br />
+The subject or premise of this project, is to study the correlation between economic recessions and the use of vices such as alcohol, cannabis and tobacco. I undertook this project to hone my programing skills. While most of the analyst can easily be completed in excel. the way of the future is programing. <br />
 
 An article published on WebMD, “[As Economy Goes Down, Drinking Goes Up]( https://www.webmd.com/mental-health/addiction/news/20111013/as-economy-goes-down-drinking-goes-up)” suggested that drinking and alcohol consumption are inversely correlated in the United States. <br />
 
@@ -48,8 +48,8 @@ Sources: Statistics Canada. All CSV files available in GitHub repository.
 |Prepare Shape file|R|Complete|
 |Dashboard: LineChart|R|Complete|
 |Dashboard: HeatMap|R|On-Going|
-|Static Visualizations & Tables|Excel, R|Ongoing|
-|Regression Model|Undecided(Excel, R)|Ongoing|
+|Static Visualizations & Tables|R|Ongoing|
+|Regression Model|R|Ongoing|
 
 ## Automate Data Cleansing & GDP per Capita **'Python'**
 [To Repository](https://github.com/jporonovich/Pyhton_AutomateDataCleanse)<br />
