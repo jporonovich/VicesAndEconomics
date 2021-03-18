@@ -44,12 +44,12 @@ Sources: Statistics Canada. All CSV files available in GitHub repository.
 |Discussion & Analysis|*na*|On-going|
 |Automate Cleanse|Python|Complete|
 |Per Capita spending|Python|Complete|
-|Consolidate files|R|Complete|
+|Consolidate files|R & Python|Complete|
 |Prepare Shape file|R|Complete|
 |Dashboard: LineChart|R|Complete|
 |Dashboard: HeatMap|R|On-Going|
 |Static Visualizations & Tables|R|Ongoing|
-|Regression Model|R|Ongoing|
+|Regression Model|R or Python|Ongoing|
 
 ## Automate Data Cleansing & GDP per Capita **'Python'**
 [To Repository](https://github.com/jporonovich/Pyhton_AutomateDataCleanse)<br />
