@@ -19,12 +19,11 @@ Taking a closer look, the latest annualized Canadian GDP data shows a -5.4% Year
 
 Contrary to alcohol and cannabis sales, tobacco sales fell -3.3% YoY which is a larger decrease than the -2.4% Compound Annual Growth Rate(“CAGR”) over the last 15 years. This is surprising as the year following the 2009 Canadian recession where GDP decreased roughly -2% tobacco sales soared 15%. <br />
 
-So what? <br />
 
 These are the question I hope to answer by the end of this project.<br />
 * Will alcohol sales remain high or will sales revert towards the average?
 *	Cannabis sales have exploded, is this due to the novelty, the fact it’s a nascent industry, the recession, will there be a correction?
-*	Will we see an up tick in tobacco sales? Is the 2010 example a lagging indicator? 
+*	Will we see an up tick in tobacco sales and is the 2010 example a lagging indicator? 
 <br />
 
 *All great question and all in due course...*
