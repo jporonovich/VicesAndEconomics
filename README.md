@@ -120,8 +120,9 @@ The reason I automated the data cleanse is so that I can create a cycle of pulin
 RStudio <br />
 Last updated: March, 2021 <br />
 Status: Heatmap and dropdown menu completed. Next step, link user input and heatmap.
+<br />
 
-
+Styling will be completed once all the core funcitons are in place. <br />
 Consolidate and clean Alcohol, Tobacco, GDP and CPI data into files into three separate CSV files (Monthly, Quarterly, Yearly). Merge .shp file with Alcohol sales per capita csv file and finally Developed dashboard for visualization & analysis
 
 
