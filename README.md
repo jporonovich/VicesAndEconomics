@@ -32,7 +32,7 @@ These are the question I hope to answer by the end of this project.<br />
 
 Sources: Statistics Canada. All CSV files available in GitHub repository.
 
-![Indexed Chart](https://raw.githubusercontent.com/jporonovich/VicesAndEconomics/main/Pictures/LineChart_index.png?token=AFSI26HPZBA63GCGUSZ2UBTAKFMOE)
+![Indexed Chart](https://raw.githubusercontent.com/jporonovich/VicesAndEconomics/main/Pictures/LineChart_index.png?token=AFSI26D2IILKJBCQJ4RJYOTALT2E2)
 
 <br />
 
